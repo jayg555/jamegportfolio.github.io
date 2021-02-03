@@ -4834,7 +4834,8 @@ a img {
     min-height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed
+    background-attachment: fixed;
+    
 }
 
 #particles-js .particles-js-canvas-el {
@@ -5041,7 +5042,7 @@ a img {
 }
 
 .user-projects li {
-    color: #1488CC;
+    color: #13547A;
     font-size: 1.1rem
 }
 
@@ -5084,9 +5085,9 @@ a img {
     display: inline-block;
     margin: 10px 0;
     padding: 5px;
-    color: #1488CC;
+    color: #13547A;
     background-color: transparent;
-    border: 1px solid #1488CC;
+    border: 1px solid #13547A;
     border-radius: 10px;
     text-align: center;
     outline: 0;
@@ -5097,8 +5098,8 @@ a img {
 
 .project-link:active,
 .project-link:hover {
-    background-color: #5347a8;
-    border-color: #5347a8;
+    background-color: #80D0C7;
+    border-color: #80D0C7;
     color: #fff;
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
@@ -5108,7 +5109,7 @@ a img {
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #2B32B2, #1488CC);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2B32B2, #1488CC);
+    background: linear-gradient(to right, #13547A, #80D0C7);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     padding: 10px 0;
     margin-top: 100px;
